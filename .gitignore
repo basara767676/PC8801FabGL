@@ -1,0 +1,11 @@
+.pio/
+.vscode/
+a.out
+*.2w
+*.2W
+*.d88
+*.D88
+*.rom
+*.ROM
+*.cmt
+*.CMT
